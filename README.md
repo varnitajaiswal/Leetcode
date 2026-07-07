@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/varnitajaiswal/Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/varnitajaiswal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/varnitajaiswal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/varnitajaiswal/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
